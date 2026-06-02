@@ -12,21 +12,20 @@ export function AboutTrainer() {
           {/* Content */}
           <div className="flex flex-col gap-6">
             <div>
-              <p className="text-accent font-semibold text-sm uppercase tracking-wide">О наставнике</p>
+              <p className="text-accent font-semibold text-sm uppercase tracking-wide">О преподавателе</p>
               <h2 className="text-3xl md:text-4xl font-bold text-foreground mt-2 text-balance">
-                Ваш коуч по успеху в VA
+                Ваш преподаватель иностранных языков
               </h2>
             </div>
 
             <p className="text-lg text-muted-foreground leading-relaxed">
-              Более 10 лет опыта в виртуальном ассистировании и бизнес-операциях. Я помогла сотням
-              специалистов освоить навыки, необходимые для успеха в этой динамичной сфере.
+              Более 8 лет преподаю английский и немецкий язык. Специализируюсь на подготовке
+              к международным экзаменам TOEFL IBT и IELTS — мои студенты стабильно получают высокие баллы.
             </p>
 
             <p className="text-muted-foreground leading-relaxed">
-              Моя экспертиза охватывает административный менеджмент, коммуникацию с клиентами, координацию
-              проектов и владение цифровыми инструментами. Опыт работы с компаниями Fortune 500 и стартапами
-              дает мне уникальное понимание того, что действительно ценят работодатели.
+              Использую современные методики, адаптирую программу под каждого студента. Занятия проходят
+              онлайн в удобное время, с акцентом на реальное применение языка и уверенное прохождение тестов.
             </p>
 
             <div className="space-y-4 pt-4">
@@ -35,8 +34,8 @@ export function AboutTrainer() {
                   <span className="text-accent text-sm">&#10003;</span>
                 </div>
                 <div>
-                  <p className="font-semibold text-foreground">Сертифицированный коуч VA</p>
-                  <p className="text-sm text-muted-foreground">Признание лидерами отрасли</p>
+                  <p className="font-semibold text-foreground">Сертифицированный преподаватель</p>
+                  <p className="text-sm text-muted-foreground">Диплом и международные сертификаты</p>
                 </div>
               </div>
               <div className="flex gap-3">
@@ -44,8 +43,8 @@ export function AboutTrainer() {
                   <span className="text-accent text-sm">&#10003;</span>
                 </div>
                 <div>
-                  <p className="font-semibold text-foreground">500+ выпускников</p>
-                  <p className="text-sm text-muted-foreground">95% карьерного роста</p>
+                  <p className="font-semibold text-foreground">300+ студентов</p>
+                  <p className="text-sm text-muted-foreground">90% сдали TOEFL/IELTS с первого раза</p>
                 </div>
               </div>
               <div className="flex gap-3">
@@ -54,7 +53,7 @@ export function AboutTrainer() {
                 </div>
                 <div>
                   <p className="font-semibold text-foreground">Персональный подход</p>
-                  <p className="text-sm text-muted-foreground">Адаптация под ваши цели</p>
+                  <p className="text-sm text-muted-foreground">Программа под ваш уровень и цели</p>
                 </div>
               </div>
             </div>
